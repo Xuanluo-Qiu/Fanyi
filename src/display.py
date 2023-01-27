@@ -1,2 +1,2 @@
-def display(str):
-    print(str)
+def display(data, word):
+    print(f"{data} -> {word}")

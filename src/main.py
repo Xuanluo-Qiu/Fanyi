@@ -7,4 +7,4 @@ args = sys.argv[:]
 
 word = args[1]
 
-display(get_word(word))
+display(word, get_word(word))
